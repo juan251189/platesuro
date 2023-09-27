@@ -1,0 +1,1 @@
+# create functions for each filter to make it more scalable instead of using switch
